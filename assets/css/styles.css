@@ -34,9 +34,7 @@ body {
 }
 
 .button-droid {
-	background-color: white;
 	color: black;
-	border: 2px solid #4CAF50; /* Green */
 	text-align: center; 
 	border-radius: 8px; 
 	background-color: rgba(0, 0, 0, .2); 
