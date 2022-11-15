@@ -7,6 +7,20 @@ body {
   font-weight:400;
 }
 
+.boxbg {
+  padding: 10px 20px 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: MistyRose;
+  background-color: rgba(0, 0, 0, .2);
+}
+
+.boxlink {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
