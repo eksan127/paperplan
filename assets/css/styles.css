@@ -41,16 +41,13 @@ body {
 	width: calc(100% / 3);
 	padding: 10px;
 	margin: 10px;
+	transition-duration: 0.4s;
 }
 
 .button-droid:hover {
 	background-color: #08AEEA;
 	color: White;
 	border-radius: 8px; 
-}
-
-.button-droid {
-  transition-duration: 0.4s;
 }
 
 h1, h2, h3, h4, h5, h6 {
