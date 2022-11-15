@@ -45,8 +45,8 @@ body {
 }
 
 .button-droid:hover {
+	background-color: #DCDCDC;
 	border: 2px solid #F5F5F5;
-	color: Black;
 	border-radius: 8px; 
 }
 
