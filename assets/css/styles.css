@@ -53,11 +53,8 @@ body {
 .button-droid:hover {
 	background-color: #D3D3D3;
 	color: Black;
-	border-radius: 8px; 
-}
-
-.button-droid:active {
-	color: none;
+	border-radius: 8px;
+	text-decoration:none;
 }
 
 .img-app {
