@@ -93,6 +93,7 @@ h3, h4, h5, h6 {
 }
 
 a {
+	transition-duration: 0.4s;
   color:#39c;
   text-decoration:none;
 }
