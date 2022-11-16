@@ -26,6 +26,12 @@ body {
   background-color: rgba(0, 0, 0, .2);
 }
 
+.box-iconappname {
+	display: flex; 
+	margin: 10px 0; 
+	align-items: center;
+}
+
 .boxlink {
   padding: 10px 20px;
   border-radius: 10px;
