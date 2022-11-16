@@ -50,6 +50,14 @@ body {
 	border-radius: 8px; 
 }
 
+.img-app {
+	align: left;
+	width: 60px;
+	height: 60px;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
