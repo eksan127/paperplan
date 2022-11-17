@@ -40,13 +40,10 @@ body {
 }
 
 .desktop-appname {
-  color: whitesmoke;
-  display: flex;
+  padding: 10px 20px;
   border-radius: 10px;
-  background-color: black;
-  font-size: 14;
-  padding: 10px;
-  margin: 10px 0;
+  background-color: skyblue;
+  font-weight: 600;
 }
 
 .button-droid {
