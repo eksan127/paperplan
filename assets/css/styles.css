@@ -32,7 +32,7 @@ body {
 	align-items: center;
 }
 
-.boxlink {
+.boxlink, .box-appname-desktop {
   padding: 10px 20px;
   border-radius: 10px;
   background-color: #F5F5F5;
