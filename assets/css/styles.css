@@ -73,8 +73,9 @@ body {
 }
 
 .desktop-appname {
+  text-align: center;
   color: whitesmoke;
-  padding: 10px;
+  padding: 20px;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, .1);;
   font-weight: bold;
