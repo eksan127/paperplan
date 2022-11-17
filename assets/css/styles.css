@@ -39,13 +39,6 @@ body {
   font-weight: 600;
 }
 
-.desktop-appname {
-  padding: 10px 20px;
-  border-radius: 10px;
-  background-color: skyblue;
-  font-weight: 600;
-}
-
 .button-droid {
 	color: black;
 	text-align: center; 
@@ -70,6 +63,20 @@ body {
 	height: 60px;
 	border-radius: 10px;
 	margin-right: 10px;
+}
+
+.desktop-bg {
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, .2);
+}
+
+.desktop-appname {
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, .1);;
+  font-weight: 600;
 }
 
 h2, h3, h4, h5, h6 {
