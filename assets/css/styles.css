@@ -7,6 +7,14 @@ body {
   font-weight:400;
 }
 
+.title-page {
+  color: whitesmoke;
+  font-size:35px;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration:none;
+}
+
 .appname {
   font-size: 20px;
   color:white;
