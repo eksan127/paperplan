@@ -75,10 +75,11 @@ body {
 .desktop-appname {
   text-align: center;
   color: whitesmoke;
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, .1);;
-  font-weight: bold;
+  font-size: 17px;
+  font-weight: 500;
 }
 
 .desktop-boxlink {
