@@ -74,7 +74,7 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h2, h3 {
   line-height:1.1;
 }
 
@@ -82,7 +82,12 @@ h1 > a {
   color: whitesmoke;
   font-size:35px;
   font-weight: 500;
+  line-height: 1;
   text-decoration:none;
+}
+
+h1:hover {
+  text-decoration:underline;
 }
 
 }
