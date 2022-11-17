@@ -42,11 +42,10 @@ body {
 .desktop-appname {
   display: flex;
   text-align: center;
-  padding: 20px;
   border-radius: 10px;
   background-color: black;
   font-weight: bold;
-  margin: 10px;
+  margin: 10px 0;
 }
 
 .button-droid {
