@@ -40,8 +40,8 @@ body {
 }
 
 .desktop-appname {
+  color: whitesmoke;
   display: flex;
-  text-align: center;
   border-radius: 10px;
   background-color: black;
   font-size: 14;
