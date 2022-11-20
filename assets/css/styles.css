@@ -6,11 +6,18 @@ body {
   color:#595959;
   font-weight:400;
 }
+.title-header {
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+  margin: 0;
+  line-height: 1.1;
+}
 
 .boxbg-header {
   padding: 20px;
-  border-radius: 10px;
-  background-color: rgba(0, 0, 0, .2);
+  border-radius: 10px 10px 0 0;
+  background-color: #FAF6F9;
 }
 
 .boxicon-header {
