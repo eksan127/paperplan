@@ -13,9 +13,16 @@ body {
   background-color: rgba(0, 0, 0, .2);
 }
 
-.icon-header {
+.boxicon-header {
   display: inline-flex; 
   align-items: center;
+}
+
+.icon-header {
+  align: left;
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
 }
 
 .appname {
