@@ -7,11 +7,12 @@ body {
   font-weight:400;
 }
 .title-header {
+  text-align: center;
   font-size: 25px;
   color: black;
   font-weight: bold;
   margin: 0;
-  line-height: 1.1;
+  line-height: 1.6;
 }
 
 .boxbg-header {
@@ -22,11 +23,9 @@ body {
 
 .boxicon-header {
   display: inline-flex; 
-  align-items: center;
 }
 
 .icon-header {
-  align: left;
   width: 60px;
   height: 60px;
   margin-right: 10px;
