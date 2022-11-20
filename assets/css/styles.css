@@ -22,7 +22,8 @@ body {
 }
 
 .boxicon-header {
-  display: block; 
+  display: block;
+  color: black; 
 }
 
 .icon-header {
