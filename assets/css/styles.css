@@ -18,7 +18,7 @@ body {
   padding: 20px;
   border-radius: 10px 10px 0 0;
   background-color: #FAF6F9;
-  text-align: center;
+  text-align: left;
 }
 
 .boxicon-header {
@@ -26,8 +26,8 @@ body {
 }
 
 .icon-header {
-  width: 70px;
-  height: 70px;
+  width: 65px;
+  height: 65px;
   margin-right: 10px;
 }
 
