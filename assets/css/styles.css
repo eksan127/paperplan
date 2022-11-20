@@ -382,6 +382,10 @@ footer {
   header li, header ul li + li + li {
     width:33%;
   }
+	
+	.icon-header {
+		width: 20%;
+	}
 }
 
 @media print {
