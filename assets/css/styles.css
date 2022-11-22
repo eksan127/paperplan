@@ -33,7 +33,7 @@ body {
 
 .appname {
   font-size: 20px;
-  color:white;
+  color:#444;
   font-weight:bold;
   margin: 0;
   line-height: 1;
@@ -47,7 +47,7 @@ body {
   padding: 10px 20px 20px;
   border-radius: 10px;
   margin-top: 10px;
-  background-color: rgba(0, 0, 0, .2);
+  background-color: #FAF6F9;
 }
 
 .box-iconappname {
@@ -65,7 +65,7 @@ body {
 }
 
 .boxlink {
-  padding: 10px 20px;
+  padding: 10px 10px 0 10px;
   border-radius: 10px;
   background-color: #FAF6F9;
   font-weight: 600;
@@ -159,7 +159,7 @@ h3, h4, h5, h6 {
 
 a {
   transition-duration: 0.4s;
-  color:#39c;
+  color:#0088cc;
   text-decoration:none;
 }
 
