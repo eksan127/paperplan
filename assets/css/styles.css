@@ -17,7 +17,7 @@ body {
 
 .title-header {
   font-size: 25px;
-  color: black;
+  color: #444;
   font-weight: bold;
   margin: 0;
   line-height: 1.6;
@@ -26,13 +26,13 @@ body {
 .boxbg-header {
   padding: 20px;
   border-radius: 10px 10px 0 0;
-  background-color: #FAF6F9;
+  background-color: white;
   text-align: center;
 }
 
 .boxicon-header {
   display: block;
-  color: black; 
+  color: #444; 
 }
 
 .icon-header {
@@ -81,10 +81,10 @@ body {
 }
 
 .button-droid {
-	color: black;
+	color: #444;
 	text-align: center; 
 	border-radius: 8px; 
-	background-color: #FAF6F9; 
+	background-color: white; 
 	width: calc(100% / 3);
 	padding: 10px;
 	margin: 10px;
@@ -345,7 +345,6 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
