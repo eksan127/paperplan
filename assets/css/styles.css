@@ -44,7 +44,7 @@ body {
 }
 
 .boxbg {
-  padding: 10px 20px 20px;
+  padding: 5px 20px 20px;
   border-radius: 10px;
   margin-top: 10px;
   background-color: #FAF6F9;
@@ -52,7 +52,7 @@ body {
 
 .box-iconappname {
 	display: flex; 
-	margin: 10px 0; 
+	margin: 20px 0 10px 0; 
 	align-items: center;
 }
 
