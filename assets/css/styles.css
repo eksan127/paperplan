@@ -65,10 +65,10 @@ body {
 }
 
 .boxlink {
-  padding: 10px 10px 0 10px;
-  border-radius: 10px;
+  padding: 0 10px 0 10px;
   background-color: #FAF6F9;
   font-size: 95%;
+  border-left: 3px solid #0088cc;
 }
 
 .button-droid {
