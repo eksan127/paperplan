@@ -127,7 +127,7 @@ body {
 .button-yt {
   color: #444;
   text-align: center; 
-  border-radius: 8px; 
+  border-radius: 30px; 
   background-color: white; 
   width: calc(100% / 2);
   padding: 10px;
@@ -138,8 +138,26 @@ body {
 .button-yt:hover {
   background-color: #D3D3D3;
   color: Black;
-  border-radius: 8px;
+  border-radius: 30px;
   text-decoration:none;
+}
+
+.boxbg-header-yt {
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  text-align: left;
+}
+
+.yt-appname {
+  text-align: center;
+  color: #444;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #dcdcdc;
+  font-size: 17px;
+  font-weight: 500;
 }
 
 h2, h3, h4, h5, h6 {
