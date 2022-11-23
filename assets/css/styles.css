@@ -124,6 +124,24 @@ body {
   margin: 5px 0;
 }
 
+.button-yt {
+  color: #444;
+  text-align: center; 
+  border-radius: 8px; 
+  background-color: white; 
+  width: calc(100% / 2);
+  padding: 10px;
+  margin: 10px;
+  transition-duration: 0.1s;
+}
+
+.button-yt:hover {
+  background-color: #D3D3D3;
+  color: Black;
+  border-radius: 8px;
+  text-decoration:none;
+}
+
 h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
