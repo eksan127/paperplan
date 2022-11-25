@@ -145,7 +145,14 @@ body {
 .boxbg-header-yt {
   margin-top: 5px;
   padding: 10px;
-  border-radius: 30px 30px 0 0;
+  border-radius: 20px 20px 0 0;
+  background-color: #dcdcdc;
+  text-align: center;
+}
+
+.boxbg-divider-top {
+  margin-top: 0;
+  padding: 20px;
   background-color: #dcdcdc;
   text-align: center;
 }
@@ -154,7 +161,7 @@ body {
   text-align: center;
   color: #444;
   padding: 5px;
-  border-radius: 10px;
+  border-radius: 30px;
   background-color: #dcdcdc;
   font-size: 17px;
   font-weight: 500;
@@ -163,8 +170,8 @@ body {
 
 .boxbg-yt {
   padding: 20px;
-  border-radius: 10px;
-  margin-top: 10px;
+  border-radius: 20px;
+  margin-top: -40px;
   background-color: white;
 }
 
