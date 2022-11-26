@@ -25,6 +25,25 @@ body {
   -moz-text-fill-color: transparent;
 }
 
+.gradient-icon {
+  /* Fallback: Set a background color. */
+  background-color: #ee0979;
+  
+  /* Create the gradient. */
+  background-image: linear-gradient(to right, #ee0979, #ff6a00);
+  
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
 .divider {
   display: flex; 
   background-color: #DCDCDC; 
