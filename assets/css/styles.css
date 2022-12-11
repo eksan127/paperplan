@@ -269,6 +269,17 @@ body {
   /*border-left: 3px solid #0088cc;*/
 }
 
+.thanks {
+  color: white;
+  display: block; 
+  background-color: #444; 
+  font-weight: normal; 
+  padding: 10px 5px; 
+  text-align: right; 
+  margin-top: 5px; 
+  border-radius: 20px; 
+}
+
 h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
