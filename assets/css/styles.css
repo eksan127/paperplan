@@ -6,6 +6,13 @@ body {
   font-weight:400;
 }
 
+.postbody {
+  padding: 20px;
+  border-radius: 0;
+  background-color: white;
+  text-align: left;
+}
+
 .android-icon{
   color: #A4C639;
 }
