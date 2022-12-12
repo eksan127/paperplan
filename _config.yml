@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 title: Paper Plane
 description: Terbang Bebas Seperti Burung
 show_downloads: false
-google_analytics: G-260MFK74M8
 navigation: false
 gems:
   - jemoji
