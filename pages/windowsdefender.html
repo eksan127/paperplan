@@ -9,8 +9,32 @@ layout: default
 </div>
 <br>
 <div class="postbody">
+	<div class="yt-appname">Unduh Aplikasi</div>
+	<p style="color: #444">
 	<!--
 		<img src="{{ '/images/autoruns1.png' | relative_url }}"><br>
 	-->
-	<p style="color:#444">Cara menonaktifkan Windows Defender :+1:</p>
+	- Untuk menonaktifkan Windows Defender silahkan unduh aplikasi Autoruns melalu link dibawah:<br>
+	<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">Unduh Autoruns</a><br>
+	- Setelah Terunduh Ekstrak aplikasinya ke Desktop atau bisa dimanapun asal mundah untuk diakses kembali.<br>
+	</p>
+
+	<div class="yt-appname">Tahap 1</div>
+	<p style="color: #444">
+		- Buat restore point terlebih dahulu, untuk berjaga-jaga dikalau ada masalah pada Windows nya<br>
+		- Kemudian buka Windows Defender lalu matikan <i>Realtime Protection </i><b><i>(Wajib!!)</i></b><br>
+		- Jika sudah, Reboot Windows nya ke Safe Mode<br>
+		- Setelah masuk Windows Safe Mode, buka aplikasi Autoruns tadi dengan <i>"Run As Administrator"</i><br>
+		- Klik menu Options - Hilangkan centang "Hide Windows Entries" atau klik logo Windows berwarna biru<br>
+		- Klik Tab "Services", kemudian pada kotak Quick Filter ketik <b>WinDefend</b>, lalu hilangkan centang disampingnya<br>
+		- Reboot Windows (keluar dari Safe Mode)<br>
+	</p>
+
+	<div class="yt-appname">Tahap 2</div>
+	<p style="color: #444">
+		- Setelah masuk ke normal Windows, tekan tombol Win + R lalu ketik <i>gpedit.msc</i> lalu tekan enter<br>
+		- Navigasi ke:<br>
+		<i>"computer configuration - Adminitrative Templates - Windows Component - Microsoft Defender Antivirus"</i><br>
+		- 
+	</p>
 </div>
