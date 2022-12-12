@@ -6,13 +6,6 @@ body {
   font-weight:400;
 }
 
-.postbody {
-  padding: 20px;
-  border-radius: 0;
-  background-color: white;
-  text-align: left;
-}
-
 .android-icon{
   color: #A4C639;
 }
@@ -285,6 +278,19 @@ body {
   text-align: right; 
   margin-top: 5px; 
   border-radius: 20px; 
+}
+
+/* Windows CSS */
+.postbody {
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+  background-color: white;
+  text-align: left;
+}
+
+.images-post {
+  margin: 5px 0;
+  align-items: center;
 }
 
 h2, h3, h4, h5, h6 {

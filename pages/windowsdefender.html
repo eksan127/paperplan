@@ -7,7 +7,6 @@ layout: default
   	</div>
 	<p class="title-header">Menonaktifkan<br>Windows Defender</p>
 </div>
-<br>
 <div class="postbody">
 	<div class="yt-appname">Unduh Aplikasi</div>
 	<p style="color: #444">
@@ -15,7 +14,7 @@ layout: default
 		<img src="{{ '/images/autoruns1.png' | relative_url }}"><br>
 	-->
 	- Untuk menonaktifkan Windows Defender silahkan unduh aplikasi Autoruns melalu link dibawah:<br>
-	<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns">Unduh Autoruns</a><br>
+	<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns"><i class="fa-solid fa-download"></i> Unduh Autoruns</a><br>
 	- Setelah Terunduh Ekstrak aplikasinya ke Desktop atau bisa dimanapun asal mundah untuk diakses kembali.<br>
 	</p>
 
@@ -26,7 +25,9 @@ layout: default
 		- Jika sudah, Reboot Windows nya ke Safe Mode<br>
 		- Setelah masuk Windows Safe Mode, buka aplikasi Autoruns tadi dengan <i>"Run As Administrator"</i><br>
 		- Klik menu Options - Hilangkan centang "Hide Windows Entries" atau klik logo Windows berwarna biru<br>
+		<img src="{{'/assets/img/windows/hide.png' | relative_url}}" class="images-post">
 		- Klik Tab "Services", kemudian pada kotak Quick Filter ketik <b>WinDefend</b>, lalu hilangkan centang disampingnya<br>
+		<img src="{{'/assets/img/windows/disable.png' | relative_url}}" class="images-post">
 		- Reboot Windows (keluar dari Safe Mode)<br>
 	</p>
 
@@ -35,6 +36,12 @@ layout: default
 		- Setelah masuk ke normal Windows, tekan tombol Win + R lalu ketik <i>gpedit.msc</i> lalu tekan enter<br>
 		- Navigasi ke:<br>
 		<i>"computer configuration - Adminitrative Templates - Windows Component - Microsoft Defender Antivirus"</i><br>
-		- 
+		- Pada bagian kanan klik 2x "Turn off Microsoft Defender Antivirus" lalu pilih Enable kemudian klik OK<br>
+		<img src="{{'/assets/img/windows/defender.png' | relative_url}}" class="images-post">
+		- Terakhir jangan pernah buka Windows Defendernya biar tidak jalan kembali<br>
 	</p>
+</div>
+<div class="thanks">
+	Gabung ke grup:<br>
+	<a href="https://WinTenGroup.t.me" target="_blank" rel="no-referrer"><i class="fa-brands fa-microsoft windows-icon"></i> WinTen</a>
 </div>
