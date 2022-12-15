@@ -1,5 +1,5 @@
 body {
-  background: #024751;
+  background: #444;
   padding:20px;
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -293,7 +293,7 @@ body {
 .thanks {
   color: white;
   display: block; 
-  background-color: #444; 
+  background-color: transparent; 
   font-weight: normal; 
   padding: 10px 5px; 
   text-align: right; 
