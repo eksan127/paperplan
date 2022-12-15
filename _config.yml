@@ -3,5 +3,5 @@ title: Paper Plane
 description: Terbang Bebas Seperti Burung
 show_downloads: false
 navigation: false
-gems:
+plugins:
   - jemoji
