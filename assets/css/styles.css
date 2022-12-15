@@ -1,5 +1,5 @@
 body {
-  background: #444;
+  background: #024751;
   padding:20px;
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
@@ -10,17 +10,15 @@ body {
 .menu-title {
   text-align: left;
   color: #444;
-  padding: 5px;
-  margin-top: 5px;
   border-radius: 30px;
-  background-color: white;
-  font-size: 17px;
+  background-color: transparent;
+  font-size: 19px;
   font-weight: 600;
   margin-bottom: 5px;
 }
 
 .boxbg-menu {
-  padding: 10px;
+  padding: 20px;
   border-radius: 10px;
   margin-top: 10px;
   background-color: white;
@@ -130,7 +128,7 @@ body {
 
 .boxbg-header {
   padding: 20px;
-  border-radius: 10px 10px 0 0;
+  border-radius: 10px;
   background-color: white;
   text-align: center;
 }
@@ -160,7 +158,7 @@ body {
 .boxbg {
   padding: 20px;
   border-radius: 10px;
-  margin-top: 10px;
+  margin-top: -40px;
   background-color: white;
 }
 
@@ -206,11 +204,12 @@ body {
 .desktop-appname {
   text-align: center;
   color: #444;
-  padding-bottom: 10px;
+  padding: 5px;
   border-radius: 10px;
-  background-color: #white;
+  background-color: #DCDCDC;
   font-size: 17px;
   font-weight: 500;
+  margin-bottom: 10px;
 }
 
 .desktop-boxlink {
@@ -333,7 +332,7 @@ h1, h2, h3 {
 }
 
 h1 > a {
-  color: #FAF6F9;
+  color: white;
   font-size:35px;
   font-weight: 500;
   text-decoration:none;
