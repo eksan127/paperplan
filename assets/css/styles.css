@@ -304,7 +304,8 @@ body {
 /* Windows CSS */
 .postbody {
   padding: 20px;
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px;
+  margin-top: 5px;
   background-color: white;
   text-align: left;
 }
