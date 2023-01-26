@@ -497,7 +497,7 @@ body {
 .scroll-container{
   overflow: auto;
   white-space: nowrap;
-  padding: 0 0 5px 10px;
+  padding: 0 0 5px 5px;
   background: transparent;
   height: auto;
   border-radius:10px;
@@ -509,7 +509,7 @@ body {
 }
 
 .gridscroll img {
-  margin-right:10px;
+  margin-right:5px;
 }
 
 .image-custom{
