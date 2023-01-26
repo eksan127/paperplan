@@ -501,7 +501,7 @@ body {
   background: transparent;
   height: auto;
   border-radius:10px;
-  margin: 0 0 10px 0;
+  margin: 5px 0 5px 0;
 }
 
 .gridscroll{
@@ -509,7 +509,7 @@ body {
 }
 
 .gridscroll img {
-  margin-right:5px;
+  margin-right:10px;
 }
 
 .image-custom{
