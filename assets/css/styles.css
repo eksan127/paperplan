@@ -492,6 +492,32 @@ body {
 }
 /*batas page 404*/
 
+
+/* HORIZONTAL SCROLL */
+.scroll-container{
+  overflow: auto;
+  white-space: nowrap;
+  padding: 0 0 5px 10px;
+  background: transparent;
+  height: auto;
+  border-radius:10px;
+  margin: 10px 0;
+}
+
+.gridscroll{
+  display:inline-block;
+}
+
+.gridscroll img {
+  margin-right:10px;
+}
+
+.image-custom{
+  border-radius: 10px;
+  height: 350px;
+}
+/* BATAS HORIZONTAL SCROLL */
+
 h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
