@@ -346,7 +346,7 @@ body {
   border-radius: 30px; 
   /*background-color: skyblue;*/ 
   /*width: calc(100% / 2);*/
-  padding: 5px 15px;
+  padding: auto;
   margin: 2px;
   transition-duration: 0.1s;
 }
