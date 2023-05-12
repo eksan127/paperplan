@@ -143,8 +143,8 @@ body {
 
 .boxbg-header {
   padding: 20px;
-  border-radius: 10px;
-  background-color: white;
+  border-radius: 10px 10px 0 0;
+  background-color: #dcdcdc;
   text-align: center;
 }
 
