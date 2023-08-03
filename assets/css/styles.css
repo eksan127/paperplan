@@ -586,7 +586,8 @@ h3, h4, h5, h6 {
 
 a {
   transition-duration: 0.1s;
-  color: #0088cc;
+  /*color: #0088cc;*/
+  color: #009687;
   text-decoration:none;
 }
 
