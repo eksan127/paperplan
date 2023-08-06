@@ -163,7 +163,8 @@ body {
 
 .boxicon-header {
   display: block;
-  color: #444; 
+  color: #444;
+  padding-top: 10px; 
 }
 
 .icon-header {
