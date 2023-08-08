@@ -1,5 +1,10 @@
 body {
   background-color: #18191D;
+  background-image: url(https://blog.1a23.com/wp-content/uploads/sites/2/2020/02/pattern-26.svg);
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  /*background-blend-mode: darken;*/
   padding:20px;
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
