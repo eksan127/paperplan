@@ -154,7 +154,7 @@ body {
 }
 
 .boxbg-header {
-  padding: 20px;
+  padding: 20px 10px 10px 10px;
   border-radius: 10px 10px 0 0;
   background-color: #282E33;
   text-align: center;
@@ -223,7 +223,7 @@ body {
   display: flex; 
   margin: -10px 0 0 0; 
   align-item: center; 
-  border-radius: 10px 10px 0 0; 
+  border-radius: 0; 
   background-color: #282E33;
 }
 
