@@ -777,7 +777,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:static;
+    position:relative;
     width:auto;
     padding: 0 20px;
   }
