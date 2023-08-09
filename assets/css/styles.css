@@ -17,9 +17,8 @@ body {
   top: 0;
   left: 0;
   background-image: url("{{ '/assets/img/pattern-32-inv.svg' | relative_url }}"),
-      linear-gradient(#61045F, transparent),
-      linear-gradient(to top left, lime, transparent),
-      linear-gradient(to top right, blue, transparent);
+      linear-gradient(to bottom, #18191D, transparent),
+      linear-gradient(to top, #18191D, transparent);
   background-size: contain;
   background-position: left;
   background-repeat: repeat-x;
