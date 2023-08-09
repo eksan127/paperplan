@@ -16,11 +16,7 @@ body {
   height: 100vh;
   top: 0;
   left: 0;
-<<<<<<< Updated upstream
-  background-image: url("{{ '/assets/img/pattern-32-inv.svg' | relative_url }}"),
-=======
-  background-image: url('../assets/img/pattern-32-inv.svg'),
->>>>>>> Stashed changes
+  background-image: url('/assets/img/pattern-32-inv.svg'),
       linear-gradient(#61045F, transparent),
       linear-gradient(to top left, lime, transparent),
       linear-gradient(to top right, blue, transparent);
