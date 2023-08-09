@@ -1,3 +1,6 @@
+---
+---
+
 body {
   background-color: #18191D;
   padding:20px;
@@ -13,7 +16,7 @@ body {
   height: 100vh;
   top: 0;
   left: 0;
-  background-image: url('/assets/img/pattern-32-inv.svg'),
+  background-image: url("{{ '/assets/img/pattern-32-inv.svg' | relative_url }}"),
       linear-gradient(#61045F, transparent),
       linear-gradient(to top left, lime, transparent),
       linear-gradient(to top right, blue, transparent);
