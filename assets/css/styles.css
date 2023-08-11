@@ -193,16 +193,15 @@ body {
 }
 
 .appname > a {
-  font-size: 22px;
+  font-size: 20px;
   color:#f5f5f5;
   font-weight: bold;
-  margin: 0;
-  line-height: 1;
+  line-height: 1.2;
 }
 
 .tittleproduct {
-  font-size: 14px;
-  font-wight: bold;
+  font-size: 13px;
+  font-weight: bold;
 }
 
 .boxbg {
