@@ -486,6 +486,10 @@ body {
   margin-top: 2px;
 }
 
+.active, .collapsible:hover {
+  background-color: #009687;
+}
+
 /* Style the collapsible content. Note: hidden by default */
 .content {
   margin-top: -7px;
